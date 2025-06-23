@@ -1,6 +1,0 @@
-[tool.ruff]
-extend-include = ["*.ipynb"]
-extend-select = ["I", "C4", "ISC", "SIM", "TCH"]
-ignore = []
-show-fixes = true
-target-version = "py312"
